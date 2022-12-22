@@ -1,0 +1,14 @@
+.Me {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  background-color: #5F30AB;
+}
+.Flex-center {
+  display: block;
+  margin: 0 auto;
+}
+
+
